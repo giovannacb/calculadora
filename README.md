@@ -1,1 +1,2 @@
-# Calculadora feita com notação polonesa reversa, por Giovanna Baldino
+# Calculadora
+feita com notação polonesa reversa, por Giovanna Baldino
